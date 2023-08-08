@@ -1,1 +1,1 @@
-she init readme
+shell variable and expansion
